@@ -65,9 +65,6 @@ The course will introduce students to the theory and practice of computer securi
 
 By the completion of this course, a student must be able to:
 
-comfortable with the fundamental theory and practical techniques in artificial intelligence and be aware of the current research in the area. Stu- dents should be able to recognize new problems that may be solved using artificial intelligence methods and implement a complete application that uses them to solve the stated problem. Stu- dents must develop and apply a strong knowledge of analytical and empirical techniques that they can use to characterize and predict the performance of intelligent systems. Finally, students should be comfortable discussing and arguing the philosophical, ethical, social and political issues
-surrounding intelligent systems.
-
 - Examine and apply the fundamental techniques of computer security.
 - Demonstrate knowledge of security objectives and policy development. 
 - Identify, explain, and resolve security issues in computer systems. 
@@ -102,19 +99,36 @@ surrounding intelligent systems.
 
 #### Class Activities
 
+All students are required to actively participate during all of the class sessions. During nearly all class sessions, you will be required to complete and submit class exercises (individually and in teams).
+
 #### Presentations
+
+At various points of the course, students will engage with learning "hot topics" and investigative reporting, results of which they are invited to present to class.
 
 #### Reflection Quizzes
 
+At the beginning of each class session, students will be invited to take a short quiz reflecting on their understanding of the read material.
+
 #### Lab Assignments
+
+Lab assignments will contain challenges which assume cumulative knowledge of course concepts. Various assignments will feature individual or group work, and are graded on completion, completeness, and correctness. 
 
 #### Course Project
 
+Course project provides students with an opportunity to develop a reasonably complex student-created project. Completion of this project will require use of the knowledge accumulated throughout the semester and will require planning, careful evaluation, and implementation of a wide variety of concepts.
+
 #### Assignment Submission
+
+All assignments have a stated due date and are to be turned in electronically on that due date. By submitting each assignment a student pledges that they have complied with Allegheny Honor Code. You must follow assignments instructions for submitting your completed programs in order for them to be graded.
+Late assignments will be accepted for up to one week past the assigned due date with a 15% penalty. All of the late assignments must be submitted at the beginning of the session that is scheduled one week after the due date. Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline.
 
 #### Attendance
 
+It is mandatory for all students to attend all of the class and laboratory sessions. There are two types of excused absences: 1) the one you notify the instructor about in advance (for example, if you have a job interview during the class/lab time or have a religious observance), 2) the one that occurs due to a documented emergency or illness. If you will not be able to attend a session, then please let the instructor know at least two days in advance to describe your situation. In case you missed a class because of an emergency or an illness, please notify the instructor as soon as possible. In both cases the instructor will work with you to get you caught up. Students who miss more than five unexcused sessions will have their final grade in the course reduced by one letter grade. If you need to miss class due to a religious observance, please speak to me in advance to make appropriate arrangements.
+
 #### Communication
+
+Various digital channels are used in this course for communication, including email, Discord, and the GitHub issue tracker. Additionally, the course website is used to store the link to the course GitHub Organization, which will contain course syllabus, course schedule and the assignments. Students are responsible for regularly checking all platforms to ensure that the important messages are not being missed.
 
 #### Allegheny College Statement of Community
 
