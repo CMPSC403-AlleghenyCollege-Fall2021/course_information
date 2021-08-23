@@ -1,8 +1,8 @@
-# CMPSC 403 Course Information
+# CMPSC 403 Course Syllabus
 
-This repository contains information about the </em>Computer Security</em> course, including the syllabus and the course schedule. Please check this repository regularly for updates to the syllabus and the schedule.
+This repository contains information about the </em>Computer Security</em> course, including the course objectives, policies and the schedule. Please check this repository regularly for updates to the policies and the schedule.
 
-## Contents
+# Contents
 
 * [Instructor](#Instructor)
 * [Meeting Times](#Meetings)
@@ -72,6 +72,10 @@ By the completion of this course, a student must be able to:
 - Communicate the human role in security systems with an emphasis on social, political, legal and ethical vulnerabilities.
 
 ### Schedule
+
+|Week #  |Dates         |Topic               |Activities/Assignments |
+|--------|------------- |--------------------|                       |
+|1       |August 23-27  |Course introduction |                       |
 
 ### Policies
 
