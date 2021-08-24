@@ -11,7 +11,7 @@ This repository contains information about the </em>Computer Security</em> cours
 * [Course Description](#Description)
 * [Course Objectives](#Objectives)
 * [Learning Outcomes](#Outcomes)
-* [COURSE SCHEDULE](#Schedule)
+* [Course Schedule](#Schedule)
 * [Course Policies](#Policies)
 * [Assistance](#Assistance)
 
