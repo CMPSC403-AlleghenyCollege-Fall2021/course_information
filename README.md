@@ -73,9 +73,26 @@ By the completion of this course, a student must be able to:
 
 ### Schedule
 
-|Week #  |Dates         |Topic               |Activities/Assignments |
-|--------|------------- |--------------------|-----------------------|
-|1       |August 23-27  |Course introduction |                       |
+Below is a tenative schedule of covered topics and associated activities. The schedule is subject to change with the addition of guest appearances.
+
+|Week # |Dates           |Topic                             |Activities/Assignments |
+|-------|----------------|----------------------------------|-----------------------|
+|1      |Aug. 23-27      |Intro. Principles.                |Community Guidelines|
+|2      |Aug. 30 - Sep. 3|Principles of Security.           |                    |
+|3      |Sep. 6-10       |Threat Modeling.                  |                    |
+|4      |Sep. 13-17      |Ethical Hacking.                  |                    |
+|5      |Sep. 20-24      |Buffer Overflow.                  |                    |
+|6      |Sep. 27 - Oct. 1|Memory Safety.                    |                    |
+|7      |Oct. 4-8        |Side Channels. Cryptography.      |                    |
+|8      |Oct. 11-15      |Cryptography.                     |                    |
+|9      |Oct. 18-22      |Web Security. No class on Oct. 21.|                    |
+|10     |Oct. 25-29      |Network Security.                 |                    |
+|11     |Nov. 1-5        |Privacy, No class on Nov. 2.      |                    |
+|12     |Nov. 8-12       |Ethics, Policy.                   |                    |
+|13     |Nov. 15-19      |Security Economics.               |                    |
+|14     |Nov. 22-26      |Thanksgiving break.               |                    |
+|15     |Nov. 29 - Dec. 3|State of the Art.                 |Presentations       |
+|12     |Dec. 6-10       |Summary.                          |                    |
 
 ### Policies
 
