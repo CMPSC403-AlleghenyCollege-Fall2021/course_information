@@ -119,7 +119,7 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 |D+           | 67 - 69.9  |D            | 63 - 66.9  |D-           | 60 - 62.9  |
 |F            | 59.9 and below |
 
-#### Class Activities
+#### Class activities
 
 All students are required to actively participate during all of the class sessions. During nearly all class sessions, you will be required to complete and submit class activities (individually and in teams).
 
@@ -127,19 +127,19 @@ All students are required to actively participate during all of the class sessio
 
 At various points of the course, students will engage with learning "hot topics" and investigative reporting, results of which they are invited to present to class.
 
-#### Reflection Quizzes
+#### Reflection quizzes
 
 At the beginning of each class session (starting on week 2), students will be invited to take a short quiz reflecting on their understanding of the reading material.
 
-#### Lab Assignments
+#### Lab assignments
 
 Lab assignments will contain challenges that incorporate specific course concepts. Lab assignments will feature individual or team work, and are graded on completion, completeness, and correctness. 
 
-#### Course Project
+#### Course project
 
 Course project provides students with an opportunity to develop a reasonably complex student-created project. Completion of this project will require use of the knowledge accumulated throughout the semester and will require planning, careful evaluation, and implementation of a wide variety of concepts.
 
-#### Assignment Submission
+#### Assignment submission
 
 All assignments have a stated due date and are to be turned in electronically on that due date. By submitting each assignment a student pledges that they have complied with Allegheny Honor Code. You must follow assignments instructions for submitting your completed programs in order for them to be graded.
 Late assignments will be accepted for up to one week past the assigned due date with a 15% penalty. All of the late assignments must be submitted at the beginning of the session that is scheduled one week after the due date. Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline.
@@ -152,7 +152,7 @@ It is mandatory for all students to attend all of the class and laboratory sessi
 
 Various digital channels are used in this course for communication, including email, Discord, and the GitHub issue tracker. Additionally, the course website is used to store the link to the course GitHub Organization, which will contain course syllabus, course schedule and the assignments. Students are responsible for regularly checking all platforms to ensure that the important messages are not being missed.
 
-#### Allegheny College Statement of Community
+#### Allegheny College statement of community
 
 Allegheny College also expects students and faculty to act according to its Statement of Community:
 
@@ -160,7 +160,7 @@ Allegheny College also expects students and faculty to act according to its Stat
 
 Keep both of these standards in mind as you exercise your academic inquiry in this course. These serve as our fundamental "first principles" in pursuit of our shared academic goals.
 
-#### Honor Code
+#### Honor code
 
 All students and faculty at Allegheny College are bound by the Honor Code. Everyone expects that your behavior reflects this commitment. Given the eminently shareable and reproducible nature of code, the Department of Computer Science adds the following statement to the general college policy:
 
