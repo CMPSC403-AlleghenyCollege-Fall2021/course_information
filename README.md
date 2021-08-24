@@ -11,7 +11,7 @@ This repository contains information about the </em>Computer Security</em> cours
 * [Course Description](#Description)
 * [Course Objectives](#Objectives)
 * [Learning Outcomes](#Outcomes)
-* [Course Schedule](#Schedule)
+* [COURSE SCHEDULE](#Schedule)
 * [Course Policies](#Policies)
 * [Assistance](#Assistance)
 
@@ -78,7 +78,7 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 
 |Week # |Dates           |Topic                             |Activities/Assignments |
 |-------|----------------|----------------------------------|-----------------------|
-|1      |Aug. 23-27      |Intro. Principles.                |Community Guidelines|
+|1      |Aug. 23-27      |Intro. Principles.                |Community Guidelines, notes.|
 |2      |Aug. 30 - Sep. 3|Principles of Security.           |                    |
 |3      |Sep. 6-10       |Threat Modeling.                  |                    |
 |4      |Sep. 13-17      |Ethical Hacking.                  |                    |
