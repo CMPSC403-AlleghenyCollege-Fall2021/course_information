@@ -74,7 +74,7 @@ By the completion of this course, a student must be able to:
 ### Schedule
 
 |Week #  |Dates         |Topic               |Activities/Assignments |
-|--------|------------- |--------------------|                       |
+|--------|------------- |--------------------|-----------------------|
 |1       |August 23-27  |Course introduction |                       |
 
 ### Policies
