@@ -12,7 +12,7 @@ This repository contains information about the </em>Computer Security</em> cours
 * [Course Objectives](#Objectives)
 * [Learning Outcomes](#Outcomes)
 * [Course Schedule](#Schedule)
-* [Policies](#Policies)
+* [Course Policies](#Policies)
 * [Assistance](#Assistance)
 
 ## Instructor
