@@ -67,8 +67,9 @@ By the completion of this course, a student must be able to:
 
 - Examine and apply the fundamental techniques of computer security.
 - Demonstrate knowledge of security objectives and policy development. 
-- Identify, explain, and resolve security issues in computer systems. 
+- Identify, explain, and resolve security issues in computer systems following the process of scientific inquiry. 
 - Design, implement, and test secure software.
+- Interpret numeric security-related data and their graphical representations.
 - Communicate the human role in security systems with an emphasis on social, political, legal and ethical vulnerabilities.
 
 ### Schedule
