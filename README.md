@@ -76,24 +76,24 @@ By the completion of this course, a student must be able to:
 
 Below is a tenative schedule of covered topics and associated activities. The schedule is subject to change with the addition of guest appearances.
 
-|Week # |Dates           |Topic                             |Activities/Assignments |
-|-------|----------------|----------------------------------|-----------------------|
+|Week # |Dates           |Topic                             |Activities/Assignments      |
+|-------|----------------|----------------------------------|----------------------------|
 |1      |Aug. 23-27      |Intro. Principles.                |Community Guidelines, notes.|
-|2      |Aug. 30 - Sep. 3|Principles of Security.           |                    |
-|3      |Sep. 6-10       |Threat Modeling.                  |                    |
-|4      |Sep. 13-17      |Ethical Hacking.                  |                    |
-|5      |Sep. 20-24      |Buffer Overflow.                  |                    |
-|6      |Sep. 27 - Oct. 1|Memory Safety.                    |                    |
-|7      |Oct. 4-8        |Side Channels. Cryptography.      |                    |
-|8      |Oct. 11-15      |Cryptography.                     |                    |
-|9      |Oct. 18-22      |Web Security. No class on Oct. 21.|                    |
-|10     |Oct. 25-29      |Network Security.                 |                    |
-|11     |Nov. 1-5        |Privacy, No class on Nov. 2.      |                    |
-|12     |Nov. 8-12       |Ethics, Policy.                   |                    |
-|13     |Nov. 15-19      |Security Economics.               |                    |
-|14     |Nov. 22-26      |Thanksgiving break.               |                    |
-|15     |Nov. 29 - Dec. 3|State of the Art.                 |Presentations       |
-|12     |Dec. 6-10       |Summary.                          |                    |
+|2      |Aug. 30 - Sep. 3|No class on Aug. 31. Principles.  |                            |
+|3      |Sep. 6-10       |Threat Modeling.                  |                            |
+|4      |Sep. 13-17      |Ethical Hacking.                  |                            |
+|5      |Sep. 20-24      |Buffer Overflow.                  |                            |
+|6      |Sep. 27 - Oct. 1|Memory Safety.                    |                            |
+|7      |Oct. 4-8        |Side Channels. Cryptography.      |                            |
+|8      |Oct. 11-15      |Cryptography.                     |                            |
+|9      |Oct. 18-22      |Web Security. No class on Oct. 21.|                            |
+|10     |Oct. 25-29      |Network Security.                 |                            |
+|11     |Nov. 1-5        |Privacy, No class on Nov. 2.      |                            |
+|12     |Nov. 8-12       |Ethics, Policy.                   |                            |
+|13     |Nov. 15-19      |Security Economics.               |                            |
+|14     |Nov. 22-26      |Thanksgiving break.               |                            |
+|15     |Nov. 29 - Dec. 3|State of the Art.                 |Presentations               |
+|12     |Dec. 6-10       |Summary.                          |                            |
 
 ### Policies
 
@@ -121,7 +121,7 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 
 #### Class Activities
 
-All students are required to actively participate during all of the class sessions. During nearly all class sessions, you will be required to complete and submit class exercises (individually and in teams).
+All students are required to actively participate during all of the class sessions. During nearly all class sessions, you will be required to complete and submit class activities (individually and in teams).
 
 #### Presentations
 
@@ -129,11 +129,11 @@ At various points of the course, students will engage with learning "hot topics"
 
 #### Reflection Quizzes
 
-At the beginning of each class session, students will be invited to take a short quiz reflecting on their understanding of the read material.
+At the beginning of each class session (starting on week 2), students will be invited to take a short quiz reflecting on their understanding of the reading material.
 
 #### Lab Assignments
 
-Lab assignments will contain challenges which assume cumulative knowledge of course concepts. Various assignments will feature individual or group work, and are graded on completion, completeness, and correctness. 
+Lab assignments will contain challenges that incorporate specific course concepts. Lab assignments will feature individual or team work, and are graded on completion, completeness, and correctness. 
 
 #### Course Project
 
@@ -146,7 +146,7 @@ Late assignments will be accepted for up to one week past the assigned due date 
 
 #### Attendance
 
-It is mandatory for all students to attend all of the class and laboratory sessions. There are two types of excused absences: 1) the one you notify the instructor about in advance (for example, if you have a job interview during the class/lab time or have a religious observance), 2) the one that occurs due to a documented emergency or illness. If you will not be able to attend a session, then please let the instructor know at least two days in advance to describe your situation. In case you missed a class because of an emergency or an illness, please notify the instructor as soon as possible. In both cases the instructor will work with you to get you caught up. Students who miss more than five unexcused sessions will have their final grade in the course reduced by one letter grade. If you need to miss class due to a religious observance, please speak to me in advance to make appropriate arrangements.
+It is mandatory for all students to attend all of the class and laboratory sessions. There are two types of excused absences: 1) the one you notify the instructor about in advance (for example, if you have a job interview during the class/lab time or have a religious observance), 2) the one that occurs due to a documented emergency or illness. If you will not be able to attend a session, please let the instructor know at least two days in advance to describe your situation. In case you missed a class because of an emergency or an illness, please notify the instructor as soon as possible. In both cases the instructor will work with you to get you caught up. Students who miss more than five unexcused sessions will have their final grade in the course reduced by one letter grade. If you need to miss class due to a religious observance, please speak to me in advance to make appropriate arrangements.
 
 #### Communication
 
