@@ -27,7 +27,7 @@ Email: jjumadinova@allegheny.edu
 
 [Office Hours](https://www.cs.allegheny.edu/sites/jjumadinova/schedule)
 
-[Web Site](https://www.cs.allegheny.edu/sites/jjumadinova)
+[Website](https://www.cs.allegheny.edu/sites/jjumadinova)
 
 ## Meetings
 
