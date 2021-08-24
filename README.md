@@ -186,7 +186,7 @@ If you find yourself in difficult circumstances which interfere with your abilit
 
 In many situations, the following list of resources may help:
 
-* [The Maytum Learning Commons](https://sites.allegheny.edu/learningcommons/)
+* [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
 * [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
 * [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
 * [Student Life](https://sites.allegheny.edu/studentlife/)
