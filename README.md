@@ -93,7 +93,7 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 |13     |Nov. 15-19      |Security Economics.               |                            |
 |14     |Nov. 22-26      |Thanksgiving break.               |                            |
 |15     |Nov. 29 - Dec. 3|State of the Art.                 |Presentations               |
-|12     |Dec. 6-10       |Summary.                          |                            |
+|16     |Dec. 6-10       |Summary.                          |                            |
 
 ### Policies
 
