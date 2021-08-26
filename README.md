@@ -172,7 +172,7 @@ The above statement, of course, also applies to online forums such as Stack Over
 
 #### Classroom ethics
 
-The discipline of computer science, like many others, encourages its members to act according to discipline-specific ethics. I encourage you to take time to review the Association for Computing Machinery (ACM) [Code of Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf).
+The discipline of computer science, like many others, encourages its members to act according to discipline-specific ethics. I encourage you to take time to review the Association for Computing Machinery (ACM) [Code of Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf). In addition, students in this class are required to act within the bounds established by the [Course Community Guidelines](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/community_guidelines). Each violation to the course guidelines will result in a warning from the instructor; after two such warnings, the grade of the assignment during which a violation was detected will be reduced.
 
 ### Assistance
 
