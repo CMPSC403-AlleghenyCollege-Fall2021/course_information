@@ -78,8 +78,8 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 
 |Week # |Dates           |Topic                             |Activities/Assignments      |
 |-------|----------------|----------------------------------|----------------------------|
-|1      |Aug. 23-27      |Intro. Principles.                |Community Guidelines, notes.|
-|2      |Aug. 30 - Sep. 3|No class on Aug. 31. Principles.  |                            |
+|1      |Aug. 23-27      |Intro. Principles.                |Community Guidelines, notes. [Activity 1](https://classroom.github.com/a/nwpKXKIg) due Aug. 27.|
+|2      |Aug. 30 - Sep. 3|No class on Aug. 31. Principles.  |[Activity 2-3](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity2-3) due Aug. 31. [Activity 4](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity4) due Sep. 3.|
 |3      |Sep. 6-10       |Threat Modeling.                  |                            |
 |4      |Sep. 13-17      |Ethical Hacking.                  |                            |
 |5      |Sep. 20-24      |Buffer Overflow.                  |                            |
