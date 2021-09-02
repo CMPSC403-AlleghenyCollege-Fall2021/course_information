@@ -76,24 +76,24 @@ By the completion of this course, a student must be able to:
 
 Below is a tenative schedule of covered topics and associated activities. The schedule is subject to change with the addition of guest appearances.
 
-|Week # |Dates           |Topic                             |Activities/Assignments      |
-|-------|----------------|----------------------------------|----------------------------|
-|1      |Aug. 23-27      |Intro. Principles.                |Community Guidelines, notes. [Activity 1](https://classroom.github.com/a/nwpKXKIg) due Aug. 27.|
-|2      |Aug. 30 - Sep. 3|No class on Aug. 31. Principles.  |[Activity 2-3](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity2-3) due Aug. 31. [Activity 4](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity4) due Sep. 3.|
-|3      |Sep. 6-10       |Threat Modeling.                  |                            |
-|4      |Sep. 13-17      |Ethical Hacking.                  |                            |
-|5      |Sep. 20-24      |Buffer Overflow.                  |                            |
-|6      |Sep. 27 - Oct. 1|Memory Safety.                    |                            |
-|7      |Oct. 4-8        |Side Channels. Cryptography.      |                            |
-|8      |Oct. 11-15      |Cryptography.                     |                            |
-|9      |Oct. 18-22      |Web Security. No class on Oct. 21.|                            |
-|10     |Oct. 25-29      |Network Security.                 |                            |
-|11     |Nov. 1-5        |Privacy, No class on Nov. 2.      |                            |
-|12     |Nov. 8-12       |Ethics, Policy.                   |                            |
-|13     |Nov. 15-19      |Security Economics.               |                            |
-|14     |Nov. 22-26      |Thanksgiving break.               |                            |
-|15     |Nov. 29 - Dec. 3|State of the Art.                 |Presentations               |
-|16     |Dec. 6-10       |Summary.                          |                            |
+|Week # |Dates           |Topic                             |Activities/Assignments      | Reading |
+|-------|----------------|----------------------------------|----------------------------|---------|
+|1      |Aug. 23-27      |Introduction to Security.                |Community Guidelines, notes. [Activity 1](https://classroom.github.com/a/nwpKXKIg) due Aug. 27.|Read the syllabus.|
+|2      |Aug. 30 - Sep. 3|No class on Aug. 31. Security Principles.  |[Activity 2-3](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity2-3) due Aug. 31. [Activity 4](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity4) due Sep. 2.| Read [This World of Ours](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)|
+|3      |Sep. 6-10       |Security Principles.                 |Activity 5 due Sep. 7                            |     |
+|4      |Sep. 13-17      |Ethical Hacking.                  |                            |    |
+|5      |Sep. 20-24      |Buffer Overflow.                  |                            |    |
+|6      |Sep. 27 - Oct. 1|Memory Safety.                    |                            |    |
+|7      |Oct. 4-8        |Side Channels. Cryptography.      |                            |    |
+|8      |Oct. 11-15      |Cryptography.                     |                            |    |
+|9      |Oct. 18-22      |Web Security. No class on Oct. 21.|                            |    |
+|10     |Oct. 25-29      |Network Security.                 |                            |    |
+|11     |Nov. 1-5        |Privacy, No class on Nov. 2.      |                            |    |
+|12     |Nov. 8-12       |Ethics, Policy.                   |                            |    |
+|13     |Nov. 15-19      |Security Economics.               |                            |    |
+|14     |Nov. 22-26      |Thanksgiving break.               |                            |    |
+|15     |Nov. 29 - Dec. 3|State of the Art.                 |Presentations               |    |
+|16     |Dec. 6-10       |Summary.                          |                            |    |
 
 ### Policies
 
