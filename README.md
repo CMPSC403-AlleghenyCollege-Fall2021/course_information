@@ -79,8 +79,8 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 |Week # |Dates           |Topic                             |Activities/Assignments      | Reading |
 |-------|----------------|----------------------------------|----------------------------|---------|
 |1      |Aug. 23-27      |Introduction to Security.                |Community Guidelines, notes. [Activity 1](https://classroom.github.com/a/nwpKXKIg) due Aug. 27.|Read the syllabus.|
-|2      |Aug. 30 - Sep. 3|No class on Aug. 31. Security Principles.  |[Activity 2-3](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity2-3) due Aug. 31. [Activity 4](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity4) due Sep. 2.| Read [This World of Ours](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)|
-|3      |Sep. 6-10       |Security Principles.                 |Activity 5 due Sep. 7                            |     |
+|2      |Aug. 30 - Sep. 3|No class on Aug. 31. Security Principles.  |[Reflection Quiz 1 due Sep. 2.](https://forms.gle/QUJ4Lv3zREB3TSZY7). [Activity 2-3](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity2-3) due Aug. 31. [Activity 4](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity4) due Sep. 2.| Read [This World of Ours](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)|
+|3      |Sep. 6-10       |Security Principles.                 |                           |     |
 |4      |Sep. 13-17      |Ethical Hacking.                  |                            |    |
 |5      |Sep. 20-24      |Buffer Overflow.                  |                            |    |
 |6      |Sep. 27 - Oct. 1|Memory Safety.                    |                            |    |
