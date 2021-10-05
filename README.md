@@ -84,12 +84,12 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 |4      |Sep. 13-17      |Ethical Hacking. Architecture/Assembly. | [Reflection Quiz 3](https://forms.gle/FbXrbj5qfLniFekn9) due Sep. 14. [Reflection Quiz 4](https://forms.gle/3hsDUjpgHJqvLnL98) due Sep. 16. [Activity 7](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity7) due Sep. 17. Presentation 1 report due Sep. 17. Lab 2 Released. | Review slides and activity notes. |
 |5      |Sep. 20-24      |Buffer Overflow.                  | [Reflection Quiz 5](https://forms.gle/DYhNiLcu1CJ3FPdWA) due Sep. 21. [Activity 8](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity8) due Sep. 23. [Reflection Quiz 6](https://forms.gle/HKT3FiEVcgpAgzUu9) due Sep. 23. Visit by Ahmad Douglas on Sep. 24. [Activity 9](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity9) due Sep. 28. | Read/try [Smashing Stacks for Fun and Profit](http://phrack.org/issues/49/14.html#article) |
 |6      |Sep. 27 - Oct. 1|Memory Safety.                    | [Reflection Quiz 7](https://forms.gle/XXoKcSHpbbezDaG66)      | Review slides and community notes. |
-|7      |Oct. 4-8        |Side Channels. Cryptography.      |                            |    |
+|7      |Oct. 4-8        |Side Channels. Cryptography.      | [Reflection Quiz 8](https://forms.gle/Dzcm55DHChttqrj56). [Activity 10](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity10) due Oct. 7|    |
 |8      |Oct. 11-15      |Cryptography.                     |                            |    |
-|9      |Oct. 18-22      |Web Security. No class on Oct. 21.|                            |    |
-|10     |Oct. 25-29      |Network Security.                 |                            |    |
-|11     |Nov. 1-5        |Privacy, No class on Nov. 2.      |                            |    |
-|12     |Nov. 8-12       |Ethics, Policy.                   |                            |    |
+|9      |Oct. 18-22      |Cryptography. Web Security. No class on Oct. 21.|                            |    |
+|10     |Oct. 25-29      |Web and Network Security.                 |                            |    |
+|11     |Nov. 1-5        |Web and Network Security. No class on Nov. 2.      |                            |    |
+|12     |Nov. 8-12       |Privacy. Ethics, Policy.                   |                            |    |
 |13     |Nov. 15-19      |Security Economics.               |                            |    |
 |14     |Nov. 22-26      |Thanksgiving break.               |                            |    |
 |15     |Nov. 29 - Dec. 3|State of the Art.                 |Presentations               |    |
