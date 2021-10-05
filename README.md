@@ -89,10 +89,10 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 |9      |Oct. 18-22      |Cryptography. Web Security. No class on Oct. 21.|                            |    |
 |10     |Oct. 25-29      |Web and Network Security.                 |                            |    |
 |11     |Nov. 1-5        |Web and Network Security. No class on Nov. 2.      |                            |    |
-|12     |Nov. 8-12       |Privacy. Ethics, Policy.                   |                            |    |
-|13     |Nov. 15-19      |Security Economics.               |                            |    |
+|12     |Nov. 8-12       |Web and Network Security.                   |                            |    |
+|13     |Nov. 15-19      |Privacy. Ethics, Policy.                |                            |    |
 |14     |Nov. 22-26      |Thanksgiving break.               |                            |    |
-|15     |Nov. 29 - Dec. 3|State of the Art.                 |Presentations               |    |
+|15     |Nov. 29 - Dec. 3|Security Economics.                  |Presentations               |    |
 |16     |Dec. 6-10       |Summary.                          |                            |    |
 
 ### Policies
