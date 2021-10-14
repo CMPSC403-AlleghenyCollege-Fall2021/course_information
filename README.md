@@ -85,7 +85,7 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 |5      |Sep. 20-24      |Buffer Overflow. Visit by Ahmad Douglas on Sep. 24. | [Reflection Quiz 5](https://forms.gle/DYhNiLcu1CJ3FPdWA) due Sep. 21. [Activity 8](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity8) due Sep. 23. [Reflection Quiz 6](https://forms.gle/HKT3FiEVcgpAgzUu9) due Sep. 23. [Activity 9](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity9) due Sep. 28. | Read/try [Smashing Stacks for Fun and Profit](http://phrack.org/issues/49/14.html#article) |
 |6      |Sep. 27 - Oct. 1|Memory Safety.                    | [Reflection Quiz 7](https://forms.gle/XXoKcSHpbbezDaG66). Presentation 2 Released Oct. 1.      | Review slides and community notes. |
 |7      |Oct. 4-8        |Cryptography.      | [Reflection Quiz 8](https://forms.gle/Dzcm55DHChttqrj56). [Activity 10](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity10) due Oct. 7. Presentation 2 due Oct. 8.| Review slides and class activity notes.   |
-|8      |Oct. 11-15      |Cryptography.                     | [Activity 11](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity11) due Oct. 12. |    |
+|8      |Oct. 11-15      |Cryptography.| [Activity 11](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity11) due Oct. 12. | Review slides and class activity notes.|
 |9      |Oct. 18-22      |Cryptography. Web Security. No class on Oct. 21.|                            |    |
 |10     |Oct. 25-29      |Web and Network Security.                 |                            |    |
 |11     |Nov. 1-5        |Web and Network Security. No class on Nov. 2.      |                            |    |
