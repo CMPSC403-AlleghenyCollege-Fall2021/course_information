@@ -87,7 +87,7 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 |7      |Oct. 4-8        |Cryptography.      | [Reflection Quiz 8](https://forms.gle/Dzcm55DHChttqrj56) due Oct. 5. [Activity 10](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity10) due Oct. 7. Presentation 2 due Oct. 8.| Review slides and class activity notes.   |
 |8      |Oct. 11-15      |Cryptography.| [Activity 11](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity11) due Oct. 12. [Reflection Quiz 9](https://forms.gle/CM9NM6V6rhc9tR6RA) due Oct. 13.| Review slides and class activity notes.|
 |9      |Oct. 18-22      |Cryptography. Web Security. No class on Oct. 21.|                            |    |
-|10     |Oct. 25-29      |Web and Network Security.                 |                            |    |
+|10     |Oct. 25-29      |Web and Network Security. Visit by Amit Riswadkar on Oct. 28. |                            |    |
 |11     |Nov. 1-5        |Web and Network Security. No class on Nov. 2.      |                            |    |
 |12     |Nov. 8-12       |Web and Network Security.                   |                            |    |
 |13     |Nov. 15-19      |Privacy. Ethics, Policy.                |                            |    |
