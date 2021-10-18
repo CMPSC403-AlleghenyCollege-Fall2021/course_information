@@ -86,10 +86,10 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 |6      |Sep. 27 - Oct. 1|Memory Safety.                    | [Reflection Quiz 7](https://forms.gle/XXoKcSHpbbezDaG66). Presentation 2 Released Oct. 1.      | Review slides and community notes. |
 |7      |Oct. 4-8        |Cryptography.      | [Reflection Quiz 8](https://forms.gle/Dzcm55DHChttqrj56) due Oct. 5. [Activity 10](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity10) due Oct. 7. LAB 02 and Presentation 2 due Oct. 8. LAB 03 Released Oct. 8.| Review slides and class activity notes.   |
 |8      |Oct. 11-15      |Cryptography. No class on Oct. 12. | [Activity 11](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity11) due Oct. 12. [Reflection Quiz 9](https://forms.gle/CM9NM6V6rhc9tR6RA) due Oct. 13.| Review slides and class activity notes.|
-|9      |Oct. 18-22      |Cryptography. Web Security. No class on Oct. 21.| LAB 03 due Oct. 22. LAB 04 Released Oct. 22. |    |
+|9      |Oct. 18-22      |Cryptography. Web Security. No class on Oct. 21.| [Activity 12](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/community_notes/blob/main/modular_arithmetic.md) due in class Oct. 19. LAB 03 due Oct. 22. LAB 04 Released Oct. 22. |    |
 |10     |Oct. 25-29      |Web and Network Security. Visit by Amit Riswadkar on Oct. 28. | LAB 04 due Oct. 29. LAB 05 Released Oct. 29. |    |
 |11     |Nov. 1-5        |Web and Network Security. No class on Nov. 2.      |                            |    |
-|12     |Nov. 8-12       |Web and Network Security.                   | LAB 05 due Nov. 12. Project Released.     |    |
+|12     |Nov. 8-12       |Web and Network Security. | LAB 05 due Nov. 12. Project Released.     |    |
 |13     |Nov. 15-19      |Privacy. Ethics, Policy.                |                            |    |
 |14     |Nov. 22-26      |Thanksgiving break.               |                            |    |
 |15     |Nov. 29 - Dec. 3|Security Economics.                  |Presentations               |    |
