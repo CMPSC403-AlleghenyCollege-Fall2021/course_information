@@ -107,7 +107,7 @@ Reflection Quizzes | 20%        | check mark grade
 Lab Assignments    | 30%        | letter grade
 Course project     | 20%        | letter grade
                    |            |
-Total              | 100%
+Total              | 100%       |
 
 #### Grading scale
 
