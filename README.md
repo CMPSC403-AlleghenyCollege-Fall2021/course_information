@@ -120,7 +120,7 @@ Total              | 100%       |
 
 #### Class activities
 
-All students are required to actively participate during all of the class sessions. During nearly all class sessions, you will be required to complete and submit class activities (individually and in teams). You will receive a checkmark grade (1) if you complete more than 70% of the activity; otherwise you will reeive a 0.
+All students are required to actively participate during all of the class sessions. During nearly all class sessions, you will be required to complete and submit class activities (individually and in teams). You will receive a checkmark grade (1) if you complete more than 70% of the activity; otherwise you will receive a 0.
 
 #### Presentations
 
