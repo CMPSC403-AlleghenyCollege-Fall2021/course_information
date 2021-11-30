@@ -92,7 +92,7 @@ Week # | Dates            | Topic                                               
 12     | Nov. 8-12        | Web and Network Security.                             |  [Reflection Quiz 11](https://forms.gle/sA6xxFqoAdn2azx39) due Nov. 9. [Reflection Quiz 12](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/community_notes/blob/main/web_network_terms.md) due Nov. 11. [Activity 15](https://github.com/CMPSC403-AlleghenyCollege-Fall2021/activity15/) due Nov. 12                                                                                                                                                                                                                                                                                              | Review [OWASP Top 10](https://owasp.org/www-project-top-ten/).
 13     | Nov. 15-19       | Project Introduction. Network Security Tools.                             |  LAB 05 due Nov. 19. | Review class activity material.
 14     | Nov. 22-26       | Thanksgiving break.                                   |                                                                                                                                                                  |
-15     | Nov. 29 - Dec. 3 | Privacy. Ethics. Policy. Economics.                                 | Project Walkthrough.   | [Surveillance or Privacy](https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch26-7sep.pdf)
+15     | Nov. 29 - Dec. 3 | Privacy. Ethics. Policy. Economics.                                 | Project Walkthrough.   | [Surveillance or Privacy?](https://www.cl.cam.ac.uk/~rja14/Papers/SEv3-ch26-7sep.pdf)
 16     | Dec. 6-10        | Project Work.                                             |
 
 ### Policies
